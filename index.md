@@ -378,4 +378,4 @@ União de branches + resolução de divergências.
 
 ---
 
-> “O Git é como uma máquina do tempo para o seu código — aprenda a usá-la e você nunca
+> “O Git é como uma máquina do tempo para o seu código — aprenda a usá-la e você nunca mais perderá o controle das suas versões.
