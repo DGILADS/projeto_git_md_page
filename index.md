@@ -368,3 +368,14 @@ União de branches + resolução de divergências.
 ✔ Pull Requests  
 ✔ Merge Strategies  
 
+
+---
+
+## ✨ Autor
+**Diego Gil**  
+📧 [diegogil.ads@gmail.com](mailto:diegogil.ads@gmail.com)  
+🌐 [https://github.com/DGILADS](https://github.com/DGILADS)
+
+---
+
+> “O Git é como uma máquina do tempo para o seu código — aprenda a usá-la e você nunca
