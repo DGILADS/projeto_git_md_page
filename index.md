@@ -3,10 +3,6 @@
 
 ---
 
-![alt da imagem](alpha-brasao.png)
-
----
-
 # 🕸️ **1. Protocolos de Comunicação em Redes**
 
 ---
