@@ -1,4 +1,4 @@
-![alt da imagem](projeto_git_markdow/domnloads.jpeg)
+![alt da imagem](~/projeto_git_markdow/download.jpeg)
 
 # 🌐 **Guia Completo de Redes, Segurança e Git**  
 ### _Design em Markdown — Estudo Técnico Essencial_
