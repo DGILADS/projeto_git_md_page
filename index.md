@@ -1,5 +1,17 @@
 ![alt da imagem](download.jpeg)
 
+---
+
+> # 📘 Estudos Desenvolvidos no Instituto Alfa-EdTech  
+> Aprimorando habilidades essenciais por meio de uma jornada que integra competências comportamentais, técnicas e orientação especializada.
+
+---
+
+> ## 🎓 Soft Skill — Professora Flávia  
+> ## 🛠 Hard Skill — Professor Kenji & Professor Ozias  
+> ### 🧭 Mentor — Mori
+
+
 # 🌐 **Guia Completo de Redes, Segurança e Git**  
 ### _Design em Markdown — Estudo Técnico Essencial_
 
