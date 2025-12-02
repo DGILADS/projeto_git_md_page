@@ -7,9 +7,13 @@
 
 ---
 
-> ## 🎓 Soft Skill — Professora Flávia  
+> ## 🎓 Soft Skill — Professora Flavia  
 > ## 🛠 Hard Skill — Professor Kenji & Professor Ozias  
 > ### 🧭 Mentor — Mori
+
+---
+
+# 📚 Aula Hard — 🖥  
 
 
 # 🌐 **Guia Completo de Redes, Segurança e Git**  
@@ -384,6 +388,43 @@ União de branches + resolução de divergências.
 
 
 ---
+
+# 📚 Aula Soft — 🖥  
+## 🎯 **Elementos da Comunicação**
+
+### 🧩 Principais Habilidades
+- Trabalho em equipe  
+- Comunicação  
+- Resolução de problemas  
+- Gestão do tempo  
+- Adaptabilidade  
+- Aprendizado constante  
+- Resiliência  
+- Inteligência emocional  
+- Lidar com pressão  
+- Empatia  
+- Escuta ativa (saber ouvir)  
+- Criatividade e inovação  
+
+---
+
+## 🎯 **Linguagem Não Verbal**
+
+### 🚀 Metodologias Ágeis
+- Planning Poker  
+- Cards com descrição  
+
+### 🗣 Comunicação e Escuta
+
+### 👁 Linguagem Não Verbal
+- Expressar-se sem uso de palavras  
+- Expressões faciais  
+- Movimentos corporais  
+- Diferenças culturais  
+- Uso de emojis  
+
+### 🎥 Posicionamento na Câmera e Sua Importância
+
 
 ## ✨ Autor
 **Diego Gil**  
